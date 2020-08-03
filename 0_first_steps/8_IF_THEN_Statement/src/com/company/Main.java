@@ -18,7 +18,7 @@ public class Main {
         // Notice this strange behaviour
         if (isAlien == true) // == identical operators
             System.out.println("It is not an alien!");
-            System.out.println("I'm scared of aliens.");
+        System.out.println("I'm scared of aliens.");
         System.out.println("End");
         // We expect no printing. But...
         // That's confusing behaviour needs a workaround...
