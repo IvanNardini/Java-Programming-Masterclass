@@ -5,20 +5,21 @@ public class Main {
     public static void main(String[] args) {
 
         String PLAYERNAME = "Ivan";
-        DisplayHighScorePosition(PLAYERNAME, 1500);
-        CalculateHighScorePosition(1500);
-        DisplayHighScorePosition(PLAYERNAME, 900);
-        CalculateHighScorePosition(900);
-        DisplayHighScorePosition(PLAYERNAME, 400);
-        CalculateHighScorePosition(400);
-        DisplayHighScorePosition(PLAYERNAME, 50);
-        CalculateHighScorePosition(50);
+        int HIGHSCOREPOSITION = CalculateHighScorePosition(1500);
+        DisplayHighScorePosition(PLAYERNAME, HIGHSCOREPOSITION);
+        HIGHSCOREPOSITION = CalculateHighScorePosition(900);
+        DisplayHighScorePosition(PLAYERNAME, HIGHSCOREPOSITION);
+        HIGHSCOREPOSITION = CalculateHighScorePosition(400);
+        DisplayHighScorePosition(PLAYERNAME, HIGHSCOREPOSITION);
+        HIGHSCOREPOSITION = CalculateHighScorePosition(50);
+        DisplayHighScorePosition(PLAYERNAME, HIGHSCOREPOSITION);
     }
 
     // Create a method DisplayHighScorePosition
     // with player name parameter and high score table parameter
     public static void DisplayHighScorePosition(String PlayerName, int Score) {
-        System.out.println(PlayerName + " managed to get into position " + Score + " on the high score table ");
+        System.out.println(PlayerName + " managed to get into position " +
+                            Score + " on the high score table ");
     }
 
     // Create a method CalculateHighScorePosition
