@@ -25,14 +25,29 @@ public class Main {
     // Create a method CalculateHighScorePosition
     // with Score parameter only
     public static int CalculateHighScorePosition(int Score) {
+
+//        if (Score >=1000) {
+//            return 1;
+//        } else if (Score >=500) {
+//            return 2;
+//        } else if (Score >=100) {
+//            return 3;
+//        }
+//
+//        return 4;
+
+        // Don't like that solution cause many return
+
+        // Set a return variable
+        int POSITION = 4;
+
         if (Score >=1000) {
-            return 1;
-        } else if (Score >=500 && Score < 1000) {
-            return 2;
-        } else if (Score >=100 && Score < 500) {
-            return 3;
-        } else {
-            return 4;
+            POSITION = 1;
+        } else if (Score >=500) {
+            POSITION = 2;
+        } else if (Score >=100) {
+            POSITION =  3;
         }
+        return POSITION;
     }
 }
