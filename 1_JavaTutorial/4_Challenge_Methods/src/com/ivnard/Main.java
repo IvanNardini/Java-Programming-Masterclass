@@ -25,11 +25,11 @@ public class Main {
     // Create a method CalculateHighScorePosition
     // with Score parameter only
     public static int CalculateHighScorePosition(int Score) {
-        if (Score > 1000) {
+        if (Score >=1000) {
             return 1;
-        } else if (Score > 500 && Score < 1000) {
+        } else if (Score >=500 && Score < 1000) {
             return 2;
-        } else if (Score > 100 && Score < 500) {
+        } else if (Score >=100 && Score < 500) {
             return 3;
         } else {
             return 4;
