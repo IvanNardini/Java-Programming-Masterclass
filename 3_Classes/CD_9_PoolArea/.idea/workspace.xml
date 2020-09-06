@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a314ac23-9b07-47ac-8960-7e8ffaf93693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/out/production/Classes/com/ivnard/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/out/production/Classes/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/src/com/ivnard/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Classes/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/2_Constructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/out/production/2_Constructors/com/ivnard/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/out/production/2_Constructors/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/out/production/2_Constructors/com/ivnard/VIPCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/src/com/ivnard/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_Constructors/src/com/ivnard/VIPCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/3_Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/out/production/3_Inheritance/com/ivnard/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/out/production/3_Inheritance/com/ivnard/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/out/production/3_Inheritance/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/src/com/ivnard/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/src/com/ivnard/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/src/com/ivnard/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Inheritance/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/4_Class_Instance_Object_Reference.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/out/production/4_Class_Instance_Object_Reference/com/ivnard/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/out/production/4_Class_Instance_Object_Reference/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/src/com/ivnard/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_Class_Instance_Object_Reference/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/5_super_this.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/out/production/5_super_this/com/ivnard/super_this/Appartment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/out/production/5_super_this/com/ivnard/super_this/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/out/production/5_super_this/com/ivnard/super_this/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_call/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_call/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_call/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_keywords/Appartment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_keywords/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5_super_this/src/com/ivnard/super_this_keywords/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/6_OverLoading_OverRiding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/src/com/ivnard/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/src/com/ivnard/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_OverLoading_OverRiding/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/7_Static_Instance_methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/out/production/7_Static_Instance_methods/com/ivnard/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/out/production/7_Static_Instance_methods/com/ivnard/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/out/production/7_Static_Instance_methods/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/src/com/ivnard/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/src/com/ivnard/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_Static_Instance_methods/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/8_Static_Instance_Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/out/production/8_Static_Instance_Variables/com/ivnard/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/out/production/8_Static_Instance_Variables/com/ivnard/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/out/production/8_Static_Instance_Variables/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/src/com/ivnard/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/src/com/ivnard/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_Static_Instance_Variables/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/CD_1_SimpleCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/out/production/CD_1_SimpleCalculator/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/out/production/CD_1_SimpleCalculator/com/ivnard/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_1_SimpleCalculator/src/com/ivnard/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/CD_2_Person.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/out/production/CD_2_Person/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/out/production/CD_2_Person/com/ivnard/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_2_Person/src/com/ivnard/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/CD_3_Wall.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/out/production/CD_3_Wall/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/out/production/CD_3_Wall/com/ivnard/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_3_Wall/src/com/ivnard/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/CD_4_Point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/out/production/CD_4_Point/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/out/production/CD_4_Point/com/ivnard/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_4_Point/src/com/ivnard/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/CD_5_CarpetCostCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/out/production/CD_5_CarpetCostCalculator/com/ivnard/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/out/production/CD_5_CarpetCostCalculator/com/ivnard/Carpet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/out/production/CD_5_CarpetCostCalculator/com/ivnard/Floor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/out/production/CD_5_CarpetCostCalculator/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/src/com/ivnard/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/src/com/ivnard/Carpet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/src/com/ivnard/Floor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_5_CarpetCostCalculator/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/CD_6_ComplexOperations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/out/production/CD_6_ComplexOperations/com/ivnard/ComplexNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/out/production/CD_6_ComplexOperations/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/src/com/ivnard/ComplexNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_6_ComplexOperations/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/CD_7_Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/out/production/CD_7_Inheritance/com/ivnard/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/out/production/CD_7_Inheritance/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/out/production/CD_7_Inheritance/com/ivnard/Porche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/out/production/CD_7_Inheritance/com/ivnard/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/src/com/ivnard/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/src/com/ivnard/Porche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_7_Inheritance/src/com/ivnard/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/CD_8_Cylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/out/production/CD_8_Cylinder/com/ivnard/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/out/production/CD_8_Cylinder/com/ivnard/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/out/production/CD_8_Cylinder/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/src/com/ivnard/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/src/com/ivnard/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD_8_Cylinder/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CD_9_PoolArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CD_9_PoolArea/com/ivnard/Cuboid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CD_9_PoolArea/com/ivnard/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CD_9_PoolArea/com/ivnard/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ivnard/Cuboid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ivnard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ivnard/Rectangle.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gaNPi3CijcsHR9U0QWtKapTtiH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivnard.Main" />
+      <module name="CD_9_PoolArea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a314ac23-9b07-47ac-8960-7e8ffaf93693" name="Default Changelist" comment="" />
+      <created>1598348722818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598348722818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1598356951194">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@0.0.1280.680" timestamp="1598356951194" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1598422691248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@0.0.1280.680" timestamp="1598422691248" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1598359511220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@0.0.1280.680" timestamp="1598359511220" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1598359511220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@0.0.1280.680" timestamp="1598359511220" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1598359511220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@0.0.1280.680" timestamp="1598359511220" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1598359511220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@0.0.1280.680" timestamp="1598359511220" />
+    <state x="232" y="0" key="new project wizard" timestamp="1598422719571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="0" key="new project wizard/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@0.0.1280.680" timestamp="1598422719571" />
+  </component>
+</project>
